@@ -1,5 +1,7 @@
 # 💫 About Me:
-I,m working with data engineer and data science
+I hold a degree in Systems Analysis and Development, along with postgraduate qualifications in Mobile Development and Data Science and Artificial Intelligence. With 8 years of experience in the development and IT sector, I have spent the last 3 years working as a Data Engineer. I am passionate about Data Science and Artificial Intelligence, continually seeking to expand my knowledge and skills in these areas.
+
+I live in Pato Branco, Paraná, and I enjoy practicing sports and traveling in my free time.
 
 
 # 💻 Tech Stack:
